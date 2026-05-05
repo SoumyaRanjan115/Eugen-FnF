@@ -72,7 +72,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <Dumbbell size={28} strokeWidth={1.5} />
               </div>
               <span className="text-2xl font-heading font-bold tracking-tight text-white">
-                Fit<span className="text-gold">&Fine</span>
+                Eugen<span className="text-gold"> FnF</span>
               </span>
             </Link>
 
@@ -140,7 +140,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <Dumbbell size={24} />
                 </div>
                 <span className="text-xl font-heading font-bold">
-                  Fit<span className="text-gold">&Fine</span>
+                  Eugen<span className="text-gold"> FnF</span>
                 </span>
               </div>
               <p className="text-gray-400 text-sm leading-relaxed">
@@ -239,7 +239,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             </div>
           </div>
           <div className="border-t border-white/5 mt-16 pt-8 text-center text-sm text-gray-500">
-            © {new Date().getFullYear()} Fit&Fine. All rights reserved.
+            © {new Date().getFullYear()} Eugen FnF. All rights reserved.
           </div>
         </div>
       </footer>
